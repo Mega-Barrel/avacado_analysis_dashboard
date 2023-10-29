@@ -53,7 +53,6 @@ app.layout = html.Div(
         # Plotly chart wrapper card
         html.Div(
             [
-                # region Name filter
                 html.Div(
                     [
                         html.Div(
